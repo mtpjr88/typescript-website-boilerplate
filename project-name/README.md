@@ -38,4 +38,4 @@ yarn start
 npm start
 ```
 
-Visit [localhost:8000](localhost:3000) in your browser.
+Visit [localhost:3000](localhost:3000) in your browser.
